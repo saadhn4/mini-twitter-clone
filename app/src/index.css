@@ -78,6 +78,7 @@ body {
 
 .top-row {
   display: flex;
+  align-items: center;
   gap: 5px;
   margin-bottom: 5px;
   white-space: nowrap;
