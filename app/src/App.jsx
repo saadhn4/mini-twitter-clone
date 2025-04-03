@@ -24,6 +24,7 @@ const App = () => {
           placeholder="Share your thoughts.."
           className="tweet-input"
           value={newTweet}
+          maxLength={40}
           onChange={(e) => setNewTweet(e.target.value)}
         />
         <div>
