@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import pfp from "../src/assets/cat.jpg";
+import pfp from "../src/assets/goat.jpeg";
 
 const App = () => {
   const [posts, setPosts] = useState([]);
